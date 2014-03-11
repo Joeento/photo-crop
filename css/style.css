@@ -1,0 +1,15 @@
+body
+{
+	background: #CCC;
+}
+.stage
+{
+	background:#FFF;
+	padding: 5px;
+	border-color: #AAA;
+	border-style:solid;
+	border-width:3px;
+	margin:auto;
+	width:720px;
+
+}

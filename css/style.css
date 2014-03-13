@@ -2,7 +2,7 @@ body
 {
 	background: #CCC;
 }
-.stage
+.centered
 {
 	background:#FFF;
 	padding: 5px;
@@ -10,6 +10,22 @@ body
 	border-style:solid;
 	border-width:3px;
 	margin:auto;
+}
+#stage
+{
 	width:720px;
+	cursor:crosshair;
 
+}
+#data
+{
+	width:80px;
+	margin-top:20px;
+}
+.selector
+{
+	border-width:3px;
+	border-style:dashed;
+	border-color:white;
+	position:absolute;
 }
